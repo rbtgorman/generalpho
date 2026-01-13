@@ -53,9 +53,9 @@ sections:
         flexDirection: row
         padding:
           - pt-16
-          - pl-4
+          - pl-16
           - pb-16
-          - pr-4
+          - pr-16
 
   - type: FeaturedItemsSection
     title:

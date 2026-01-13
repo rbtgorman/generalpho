@@ -11,7 +11,7 @@ sections:
     text: >
       General Phở Vietnamese Kitchen brings authentic Vietnamese flavors to Fort Knox, Kentucky. 
       Created by a retired Army veteran who understands the importance of good food and community, 
-      we serve our "Big Family" with traditional Vietnamese dishes made with care and pride.
+      we serve our Big Family with traditional Vietnamese dishes made with care and pride.
     actions:
       - label: View Menu
         altText: 'View our menu'
@@ -32,13 +32,14 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/generalpho.jpg
+      url: /images/main-hero.svg
       altText: General Phở Vietnamese Kitchen
       elementId: ''
       type: ImageBlock
       styles:
         self:
-          maxWidth: 400px
+          maxWidth: 500px
+          width: 100%
     badge:
       label: 100% Recommended
       color: text-primary
@@ -121,7 +122,7 @@ sections:
         subtitle: Made to Order
         text: >-
           Operating from our food truck at Fort Knox, we prepare each order fresh 
-          just for you. Join our "Big Family" and taste the difference.
+          just for you. Join our Big Family and taste the difference.
         image:
           url: /images/icon3.svg
           altText: Fresh food truck meals
@@ -217,8 +218,8 @@ sections:
     subtitle: What Our Big Family Says
     items:
       - title: >-
-          "Best Vietnamese food at Fort Knox! The Bánh Mì is incredible and the Phở 
-          is authentic and delicious."
+          Best Vietnamese food at Fort Knox! The Bánh Mì is incredible and the Phở 
+          is authentic and delicious.
         tagline: Customer Review
         subtitle: 'Fort Knox Community Member'
         text: >-
@@ -246,8 +247,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "As a veteran myself, I love supporting a fellow veteran's business. 
-          The food is amazing and the service is always excellent."
+          As a veteran myself, I love supporting a fellow veteran's business. 
+          The food is amazing and the service is always excellent.
         tagline: Customer Review
         subtitle: 'Retired Army Veteran'
         text: >-
@@ -275,13 +276,13 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "I stop by every week for lunch. The spring rolls are fresh, the portions 
-          are generous, and the prices are great."
+          I stop by every week for lunch. The spring rolls are fresh, the portions 
+          are generous, and the prices are great.
         tagline: Customer Review
         subtitle: 'Regular Customer'
         text: >-
-          The owner makes everyone feel like family. It's more than just great food - 
-          it's a great experience.
+          The owner makes everyone feel like family. It is more than just great food - 
+          it is a great experience.
         image:
           url: /images/person-placeholder-light.png
           altText: Regular customer

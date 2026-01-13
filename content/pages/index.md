@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/generalpho.jpg
+      url: /images/generalpho_small.jpg
       altText: General Phở Vietnamese Kitchen
       elementId: ''
       type: ImageBlock

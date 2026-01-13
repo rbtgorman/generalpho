@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Authentic Vietnamese Cuisine by a Retired United States Army Veteran
+      text: Authentic Viet Cuisine by a Retired United States Army Veteran
       color: text-dark
       type: TitleBlock
     subtitle: Serving Fort Knox with Love

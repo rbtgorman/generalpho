@@ -414,6 +414,9 @@ sections:
       label: See You Soon
       color: text-primary
       type: Badge
+      styles:
+        self:
+          textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:

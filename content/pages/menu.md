@@ -2,8 +2,8 @@
 title: Menu
 slug: menu
 sections:
-  -  type: GenericSection
-    title:
+-  type: GenericSection
+   title:
       text: Our Menu
       color: text-dark
       type: TitleBlock

@@ -37,8 +37,8 @@ sections:
       elementId: ''
       type: ImageBlock
       styles:
-        width: '50%'  # or specific pixel value like '300px'
-        maxWidth: '500px
+        self:
+          maxWidth: 400px
     badge:
       label: 100% Recommended
       color: text-primary
@@ -70,7 +70,7 @@ sections:
         subtitle: Serving Those Who Serve
         text: >-
           Created by a retired Army veteran who brings military precision and dedication 
-          to every dish. We understand the Fort Knox community because we're part of it.
+          to every dish. We understand the Fort Knox community because we are part of it.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

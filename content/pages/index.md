@@ -38,8 +38,9 @@ sections:
       type: ImageBlock
       styles:
         self:
-          maxWidth: 500px
+          maxWidth: 600px
           width: 100%
+          objectFit: contain
     badge:
       label: 100% Recommended
       color: text-primary

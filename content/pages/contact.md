@@ -12,7 +12,7 @@ sections:
     subtitle: Visit Our Food Truck
     text: >
       General Phở Vietnamese Kitchen operates at Fort Knox, Kentucky. 
-      We're located near the PX and follow the PX schedule for our hours of operation. 
+      We are located near the PX and follow the PX schedule for our hours of operation. 
       Come visit us and become part of our Big Family!
     colors: bg-neutral-fg-dark
     styles:
@@ -50,14 +50,8 @@ sections:
       - title: Our Location
         subtitle: Fort Knox, Kentucky
         text: >-
-          **Address:**
-          
-          Building 127 Gold Vault Road
-          
-          Fort Knox, KY 40121
-          
-          
-          We're located near the Post Exchange (PX) at Fort Knox.
+          Address: Building 127 Gold Vault Road, Fort Knox, KY 40121. 
+          We are located near the Post Exchange (PX) at Fort Knox.
         colors: bg-light-fg-dark
         styles:
           self:
@@ -80,21 +74,11 @@ sections:
       - title: Hours of Operation
         subtitle: We Follow the PX Schedule
         text: >-
-          Our food truck follows the Fort Knox Post Exchange (PX) operating schedule.
-          
-          
-          **Important Notes:**
-          
-          - When the PX is open, we're open
-          
-          - When there are post delays, check our Facebook
-          
-          - We close for winter months (typically mid-December through early spring)
-          
-          - Holiday closures follow PX schedule
-          
-          
-          *Please check our Facebook page for daily updates and any schedule changes!*
+          Our food truck follows the Fort Knox Post Exchange (PX) operating schedule. 
+          When the PX is open, we are open. When there are post delays, check our Facebook. 
+          We close for winter months (typically mid-December through early spring). 
+          Holiday closures follow PX schedule. Please check our Facebook page for daily 
+          updates and any schedule changes!
         colors: bg-light-fg-dark
         styles:
           self:
@@ -117,26 +101,9 @@ sections:
       - title: Stay Connected
         subtitle: Follow Us on Social Media
         text: >-
-          For daily updates, menu specials, and schedule changes, 
-          follow us on Facebook and Instagram!
-          
-          
-          **Facebook:** General Phở Vietnamese Kitchen
-          
-          **Instagram:** @generalphovietnamesekitchen
-          
-          
-          We post updates about:
-          
-          - Daily specials
-          
-          - Weather-related closures
-          
-          - Holiday schedules
-          
-          - New menu items
-          
-          - Behind-the-scenes content
+          For daily updates, menu specials, and schedule changes, follow us on Facebook 
+          and Instagram! We post updates about daily specials, weather-related closures, 
+          holiday schedules, new menu items, and behind-the-scenes content.
         colors: bg-light-fg-dark
         styles:
           self:
@@ -190,25 +157,14 @@ sections:
       type: TitleBlock
     subtitle: Before You Visit
     text: >
-      **Weather Conditions:**
-      
       We operate our food truck year-round when conditions permit. During extreme 
       cold weather, we may have adjusted hours or temporary closures for safety. 
       We typically close for the winter season (mid-December through early spring) 
-      to prep for the next year and give our team a well-deserved break.
-      
-      
-      **Fort Knox Access:**
-      
-      Please note that Fort Knox is an active military installation. Visitors will 
-      need proper identification and may need to check in at the gate. If you have 
-      questions about base access, please contact Fort Knox directly.
-      
-      
-      **Sold Out Items:**
-      
-      Because we prepare everything fresh daily, popular items may sell out during 
-      peak lunch hours. We recommend visiting earlier in the day for the full menu selection!
+      to prep for the next year and give our team a well-deserved break. Please note 
+      that Fort Knox is an active military installation. Visitors will need proper 
+      identification and may need to check in at the gate. Because we prepare everything 
+      fresh daily, popular items may sell out during peak lunch hours. We recommend 
+      visiting earlier in the day for the full menu selection!
     colors: bg-light-fg-dark
     styles:
       self:
@@ -233,7 +189,7 @@ sections:
     subtitle: Questions or Feedback?
     text: >
       Have questions about our menu, catering options, or special requests? 
-      We'd love to hear from you! Send us a message using the form below or 
+      We would love to hear from you! Send us a message using the form below or 
       reach out to us on Facebook.
     media:
       fields:
@@ -297,12 +253,4 @@ sections:
           - pt-16
           - pl-16
           - pb-16
-          - pr-16
-
-seo:
-  metaTitle: Contact & Location - General Phở Vietnamese Kitchen
-  metaDescription: Find our Vietnamese food truck at Fort Knox, KY. Building 127 Gold Vault Road. Follow PX schedule. Visit us for authentic Vietnamese cuisine!
-  socialImage: /images/main-hero.jpg
-  type: Seo
-type: PageLayout
----
+          - pr-

@@ -2,7 +2,7 @@
 title: Menu
 slug: menu
 sections:
-  - type: GenericSection
+  -  type: GenericSection
     title:
       text: Our Menu
       color: text-dark
@@ -19,24 +19,17 @@ sections:
       label: Food Truck Menu
       color: text-primary
       type: Badge
-      styles:
-        self:
-          textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
         flexDirection: column
-        justifyContent: center
         padding:
-          - pt-28
-          - pl-4
+          - pt-16
+          - pl-16
           - pb-16
-          - pr-4
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
+          - pr-16
+    elementId: ''
     backgroundImage:
       type: BackgroundImage
       altText: Vietnamese food background

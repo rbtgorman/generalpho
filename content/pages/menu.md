@@ -19,6 +19,9 @@ sections:
       label: Food Truck Menu
       color: text-primary
       type: Badge
+      styles:
+        self:
+          textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:

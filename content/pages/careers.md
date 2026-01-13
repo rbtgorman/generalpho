@@ -2,65 +2,60 @@
 title: Careers
 slug: careers
 sections:
-  - title:
-      text: A team that works closely together
+  - type: GenericSection
+    title:
+      text: Authentic Vietnamese Cuisine by a Retired Army Veteran
       color: text-dark
+      type: TitleBlock
       styles:
         self:
           textAlign: center
-      type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: Serving Fort Knox with Love
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      General Phở Vietnamese Kitchen brings authentic Vietnamese flavors to Fort Knox, Kentucky. 
+      Created by a retired Army veteran who understands the importance of good food and community, 
+      we serve our Big Family with traditional Vietnamese dishes made with care and pride.
     actions:
-      - label: See open positions
-        url: /
+      - label: View Menu
+        altText: 'View our menu'
+        url: /menu
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
+        elementId: ''
         type: Button
-    colors: bg-neutral-fg-dark
+      - label: Find Us
+        altText: 'Find our location'
+        url: /contact
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Link
+    media:
+      url: /images/generalpho.jpg
+      altText: General Phở Vietnamese Kitchen
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: 100% Recommended
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
     styles:
       self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
         alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
+        flexDirection: col
+        padding:
+          - pt-8
+          - pl-2
+          - pb-8
+          - pr-2
       text:
         textAlign: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/abstract-background.svg
-  - title:
-      text: Meet the team
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:

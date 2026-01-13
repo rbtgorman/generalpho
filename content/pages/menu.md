@@ -27,6 +27,7 @@ sections:
       self:
         alignItems: center
         flexDirection: column
+        justifyContent: center
         padding:
           - pt-28
           - pl-4

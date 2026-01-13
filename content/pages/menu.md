@@ -435,7 +435,7 @@ sections:
 seo:
   metaTitle: Menu - General Phở Vietnamese Kitchen | Fort Knox
   metaDescription: Authentic Vietnamese food truck menu featuring Phở, Bánh Mì, spring rolls and more at Fort Knox, KY. Veteran-owned, fresh made to order.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/generalpho_small.jpg
   type: Seo
 type: PageLayout
 ---

@@ -44,7 +44,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 15
-      url: /images/abstract-background.svg
+      url: /images/generalpho_small
 
   - type: FeaturedItemsSection
     title:

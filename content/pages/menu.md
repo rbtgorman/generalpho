@@ -386,6 +386,9 @@ sections:
       text: Visit Us Today
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Find us at Fort Knox PX
     text: >
       We follow the PX schedule at Fort Knox. All our dishes are made fresh to order, 

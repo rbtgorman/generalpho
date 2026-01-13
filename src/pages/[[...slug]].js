@@ -47,7 +47,9 @@ export function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
     const data = allContent();
-    const urlPath = '/' + (params.slug || []).join('/');
+    // Fix: Handle undefined params for root route
+    const slug = params?.slug || [];
+    const urlPath = '/' + slug.join('/');
     const props = await resolveStaticProps(urlPath, data);
     return { props };
 }

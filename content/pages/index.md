@@ -38,7 +38,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          maxWidth: 600px
+          maxWidth: none
           width: 100%
           objectFit: contain
     badge:
@@ -53,9 +53,9 @@ sections:
         flexDirection: row
         padding:
           - pt-16
-          - pl-16
+          - pl-4
           - pb-16
-          - pr-16
+          - pr-4
 
   - type: FeaturedItemsSection
     title:

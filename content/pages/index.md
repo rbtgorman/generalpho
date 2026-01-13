@@ -36,6 +36,9 @@ sections:
       altText: General Phở Vietnamese Kitchen
       elementId: ''
       type: ImageBlock
+      styles:
+        width: '50%'  # or specific pixel value like '300px'
+        maxWidth: '500px
     badge:
       label: 100% Recommended
       color: text-primary
